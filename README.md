@@ -22,10 +22,6 @@ Simulação de um terminal de autenticação de catraca. O usuário informa uma 
 
 <details>
   
-<summary> Clique para ver a dica / spoiler da vulnerabilidade</summary>
-
----
-
 ##  Dependências e Compilação
 
 O código foi escrito utilizando apenas bibliotecas padrão da linguagem C, sem necessidade de pacotes externos:
